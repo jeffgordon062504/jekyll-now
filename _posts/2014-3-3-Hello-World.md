@@ -1,6 +1,6 @@
 ---
 layout: post
-title: _posts/2014-3-3-Hello-World.md
+title: You're up and running.
 published: true
 ---
 
