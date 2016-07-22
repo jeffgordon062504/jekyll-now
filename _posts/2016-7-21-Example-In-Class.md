@@ -1,7 +1,7 @@
 ---
 published: true
 layout: example
-mood: Whiskey Tango
+mood: null
 ---
 ## A New Post
 
