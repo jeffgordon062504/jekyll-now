@@ -3,8 +3,6 @@ published: true
 layout: example
 mood: happy
 ---
-## A New Post
-
 Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
 
 Bacon ipsum dolor amet shoulder ribeye sirloin, t-bone chicken corned beef drumstick. Ball tip bresaola jerky chuck flank salami. Meatball ball tip fatback shank, strip steak prosciutto hamburger drumstick tenderloin kielbasa kevin. Short loin tri-tip pork chop bacon cupim short ribs prosciutto pastrami sirloin picanha porchetta spare ribs. Porchetta turducken strip steak, t-bone bresaola short loin leberkas doner pork loin. Porchetta jerky salami kielbasa cupim.
