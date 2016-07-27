@@ -9,9 +9,11 @@
           </div>
 
           <nav>
-            <a href="{{ site.baseurl }}/">Blog</a>
-            <a href="{{ site.baseurl }}/about">About</a>
-            <a href="{{ site.baseurl }}/">Contact</a>
+            
+            {% for link in site.data.navigation.main %}
+            	<a href="{{ link.url }}">{{ link.title }}</a>
+            {% endfor %}
+            
           </nav>
         </header>
       </div>
