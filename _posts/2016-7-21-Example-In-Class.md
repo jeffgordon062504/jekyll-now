@@ -1,5 +1,5 @@
 ---
-published: false
+published: true
 layout: example
 mood: happy
 portfolio: webdesign
