@@ -15,5 +15,10 @@ published: true
 
       <a href="{{ site.baseurl }}{{ post.url }}" class="read-more">Read More</a>
     </article>
+    
+  {% for post in site.posts %}
+  <h2>{{ post.title }}</h2>
+  {% endfor %}
+  
   {% endfor %}
 </div>
